@@ -15,7 +15,11 @@ Requires language compilers (GCC, G++, Java) to be pre-installed on the system
 ---
 AUTHOUR
 =======
-`victorpreston`	[+] Xpert
-		[+] Twitter : @vpreston254
-		[+] GitHub  : victorpreston
-		[+] Linkedin: victor-preston
+`victorpreston`	
+			
+   
+     			[+] Xpert
+			[+] Twitter : @vpreston254
+			[+] GitHub  : victorpreston
+			[+] Linkedin: victor-preston
+	

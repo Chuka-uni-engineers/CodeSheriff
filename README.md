@@ -18,8 +18,8 @@ AUTHOUR
 `victorpreston`	
 			
    
-     			[+] Xpert
-			[+] Twitter : @vpreston254
-			[+] GitHub  : victorpreston
-			[+] Linkedin: victor-preston
+     							~[+] Xpert
+							[+] Twitter : @vpreston254
+							[+] GitHub  : victorpreston
+							[+] Linkedin: victor-preston
 	
